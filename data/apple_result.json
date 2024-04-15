@@ -1,0 +1,312 @@
+[
+	{
+		"index": "1",
+		"text": "밤하늘은 무지개빛의 별들로 빛나고 있었다.",
+		"name": "나레이션",
+		"gender": "불명",
+		"age": "불명",
+		"line_type": "서술",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "2",
+		"text": "그러나 에메랄드 왕국의 성은 어둠에 휩싸여 있었다.",
+		"name": "나레이션",
+		"gender": "불명",
+		"age": "불명",
+		"line_type": "서술",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "3",
+		"text": "마법사 알드리드의 저주가 왕국을 감싸고 있었다.",
+		"name": "나레이션",
+		"gender": "불명",
+		"age": "불명",
+		"line_type": "서술",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "4",
+		"text": "어렴풋이 보이는 성은 옛날의 영광과는 거리가 멀었다.",
+		"name": "나레이션",
+		"gender": "불명",
+		"age": "불명",
+		"line_type": "서술",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "5",
+		"text": "단풍나무들은 시들고, 꽃들은 죽어가고 있었다.",
+		"name": "나레이션",
+		"gender": "불명",
+		"age": "불명",
+		"line_type": "서술",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "6",
+		"text": "그리고 황금의 장미 정원, 그 유명한 정원조차도 죽어가고 있었다.",
+		"name": "나레이션",
+		"gender": "불명",
+		"age": "불명",
+		"line_type": "서술",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "7",
+		"text": "리안은 그 어둠에 희망을 가져왔다.",
+		"name": "나레이션",
+		"gender": "불명",
+		"age": "불명",
+		"line_type": "서술",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "8",
+		"text": "그는 용기와 결의를 가진 모험가로, 에메랄드 왕국을 구원하기 위해 떠난 여정을 끝까지 이끌 것을 맹세했다.",
+		"name": "나레이션",
+		"gender": "불명",
+		"age": "불명",
+		"line_type": "서술",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "9",
+		"text": "리안의 모험은 이미 시작되었다.",
+		"name": "나레이션",
+		"gender": "불명",
+		"age": "불명",
+		"line_type": "서술",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "10",
+		"text": "그는 왕국으로 가는 길에 있었다.",
+		"name": "나레이션",
+		"gender": "불명",
+		"age": "불명",
+		"line_type": "서술",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "11",
+		"text": "그리고 그의 옆에는 믿음직한 동료들이 있었다.",
+		"name": "나레이션",
+		"gender": "불명",
+		"age": "불명",
+		"line_type": "서술",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "12",
+		"text": "리안은 길가에서 머리를 숙인 소녀에게 다가갔다.",
+		"name": "나레이션",
+		"gender": "불명",
+		"age": "불명",
+		"line_type": "서술",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "13",
+		"text": "\"안녕하세요,",
+		"name": "리안",
+		"gender": "남",
+		"age": "불명",
+		"line_type": "발화",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "14",
+		"text": "아가씨.",
+		"name": "리안",
+		"gender": "남",
+		"age": "불명",
+		"line_type": "발화",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "15",
+		"text": "혹시 무슨 일이신가요?\"",
+		"name": "리안",
+		"gender": "남",
+		"age": "불명",
+		"line_type": "발화",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "16",
+		"text": "소녀는 비죽거리며 대답했다.",
+		"name": "나레이션",
+		"gender": "불명",
+		"age": "불명",
+		"line_type": "서술",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "17",
+		"text": "\"저는 마법에 의해 그 누구보다도 빛이 약한 사람입니다.",
+		"name": "에밀리",
+		"gender": "여",
+		"age": "불명",
+		"line_type": "발화",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "18",
+		"text": "마법사의 저주로 인해 저희 마을은 점점 어둡게 진다고요.",
+		"name": "에밀리",
+		"gender": "여",
+		"age": "불명",
+		"line_type": "발화",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "19",
+		"text": "저는 황금의 장미가 있는 곳으로 향하려고 합니다.\"",
+		"name": "에밀리",
+		"gender": "여",
+		"age": "불명",
+		"line_type": "발화",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "20",
+		"text": "리안은 소녀의 이야기에 귀 기울였다.",
+		"name": "나레이션",
+		"gender": "불명",
+		"age": "불명",
+		"line_type": "서술",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "21",
+		"text": "\"그렇다면 우리와 함께 가시죠.",
+		"name": "리안",
+		"gender": "남",
+		"age": "불명",
+		"line_type": "발화",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "22",
+		"text": "함께 가면 더 강해질 수 있습니다.\"",
+		"name": "리안",
+		"gender": "남",
+		"age": "불명",
+		"line_type": "발화",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "23",
+		"text": "소녀는 기쁨에 미소를 지었다.",
+		"name": "나레이션",
+		"gender": "불명",
+		"age": "불명",
+		"line_type": "서술",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "24",
+		"text": "\"감사합니다.",
+		"name": "에밀리",
+		"gender": "여",
+		"age": "불명",
+		"line_type": "발화",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "25",
+		"text": "제 이름은 에밀리입니다.\"",
+		"name": "에밀리",
+		"gender": "여",
+		"age": "불명",
+		"line_type": "발화",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "26",
+		"text": "리안은 에밀리에게 손을 내밀었다.",
+		"name": "나레이션",
+		"gender": "불명",
+		"age": "불명",
+		"line_type": "서술",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "27",
+		"text": "\"리안입니다.",
+		"name": "리안",
+		"gender": "남",
+		"age": "불명",
+		"line_type": "발화",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "28",
+		"text": "함께 가서 마법사의 저주를 풀어내고 황금의 장미를 구해봅시다.\"",
+		"name": "리안",
+		"gender": "남",
+		"age": "불명",
+		"line_type": "발화",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "29",
+		"text": "에밀리는 그 손을 잡았고, 두 사람은 함께 여정을 시작했다.",
+		"name": "나레이션",
+		"gender": "불명",
+		"age": "불명",
+		"line_type": "서술",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "30",
+		"text": "그들의 목표는 멀고 어렵지만, 그들은 희망을 안고 전진했다.",
+		"name": "나레이션",
+		"gender": "불명",
+		"age": "불명",
+		"line_type": "서술",
+		"tone": "50",
+		"intensity": "50"
+	},
+	{
+		"index": "31",
+		"text": "에메랄드 왕국의 운명을 바꿀 용감한 모험가들의 이야기가 시작되었다.",
+		"name": "나레이션",
+		"gender": "불명",
+		"age": "불명",
+		"line_type": "서술",
+		"tone": "50",
+		"intensity": "50"
+	}
+]
